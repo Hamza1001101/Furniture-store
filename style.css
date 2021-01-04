@@ -8,6 +8,7 @@ html {
 body {
     box-sizing: border-box;
     font-family: 'Alegreya', serif;
+  
 }
 
 * {
@@ -15,7 +16,14 @@ body {
     padding: 0;
 }
 
-
+/*Nav bar styling */
+.container {
+    display: gird;
+    grid-template-columns: minmax(6rem, 1fr) 
+    repeat(8, minmax(min-content, 16rem)) minmax(6rem, 1fr);
+    grid-template-rows: repeat(3, min-content);
+    grid-row-gap: 1.6rem;
+}
 
 
 
