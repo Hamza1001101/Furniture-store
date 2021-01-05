@@ -112,17 +112,11 @@ body {
 }
 
 .search-btn {
-
     grid-column: 10/-1;
     grid-row: 1/2;
     border: none;
     background-color: transparent;
     cursor: pointer;
-    /*grid-column: 10 / -1;
-    grid-row: 1 / 2;
-    border: none;
-    background-color: transparent;
-    cursor: pointer;*/
 }
 /* end of navbar */
 
