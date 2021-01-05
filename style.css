@@ -118,6 +118,10 @@ body {
     background-color: transparent;
     cursor: pointer;
 }
+
+.dropdown {
+    display: none;
+}
 /* end of navbar */
 
 
