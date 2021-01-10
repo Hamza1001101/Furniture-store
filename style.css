@@ -441,8 +441,11 @@ body {
 /* end of day offer */
 
 
-
-
+.bestselling-furniture {
+    grid-column: 2/10;
+    grid-row: 6/7;
+}
+/*End of bestalling furniture*/
 
 
 
