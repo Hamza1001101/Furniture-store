@@ -585,7 +585,7 @@ body {
 
 .gallery-img-12 {
     grid-column: 7 / 9;
-    grid-row: 3 / 5
+    grid-row: 3/5; 
 }
 /* end of gallery */
 
