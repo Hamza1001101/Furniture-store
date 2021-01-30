@@ -495,7 +495,7 @@ body {
 
 .bestselling-furniture-img {
   width: 100%;
-  
+  border-radius: 0.3rem 0.3rem 0 0;
 }
 
 .bestselling-furniture-heading {
