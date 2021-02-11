@@ -906,6 +906,7 @@ cursor: pointer;
   .banner-btn {
     width: 14rem;
     height: 4rem;
+    cursor: pointer;
   }
 
   .slide-btn-1 {
