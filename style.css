@@ -938,7 +938,9 @@ cursor: pointer;
     padding: 0.8rem;
   }
 }
-
+/*
+  Responsiveness 
+*/
 @media (max-width: 600px) {
   .container {
     grid-template-columns: minmax(1rem, 1fr) repeat(
